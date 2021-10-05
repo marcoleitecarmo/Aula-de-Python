@@ -1,0 +1,3 @@
+# Usando a função len
+
+

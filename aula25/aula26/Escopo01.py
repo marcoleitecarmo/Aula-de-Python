@@ -1,7 +1,7 @@
 variavel = 'valor'
 
 
-def func():
+def func() -> object:
     print(variavel)
 
 

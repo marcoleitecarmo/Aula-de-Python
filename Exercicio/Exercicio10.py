@@ -1,6 +1,6 @@
 carrinho = [('Produto 1', 30), ('Produto 2', 20), ('Produto 3', 50)]
 
-total =[]
+total = []
 for produto in carrinho:
     total.append(produto[1])
 print(sum(total))

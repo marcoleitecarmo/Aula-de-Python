@@ -5,7 +5,6 @@ for letra_secreta in secreto:
     if letra_secreta != 's':
         print(letra_secreta, end='')
 
-
 print()
 print('-' * 35)
 for letra_secreta in secreto:

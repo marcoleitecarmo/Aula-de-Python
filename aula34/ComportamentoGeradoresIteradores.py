@@ -10,7 +10,6 @@ print('#' * 100)
 nome1 = 'Roberto Carlos'
 iterador = iter(nome1)
 
-
 print(next(iterador))
 print(next(iterador))
 print(next(iterador))

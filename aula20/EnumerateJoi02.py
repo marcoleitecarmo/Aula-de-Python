@@ -28,4 +28,3 @@ lista3 = ['Luiz', 'João', 'Maria']
 
 for indice2, nome in enumerate(lista3):
     print(indice2, nome)
-

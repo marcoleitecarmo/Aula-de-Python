@@ -1,4 +1,5 @@
 from itertools import count
+
 """
 Zip - Unindo interáveis
 zip une as listas pela menor lista
@@ -34,9 +35,6 @@ indice = count()
 cidades3 = ['São Paulo', 'Rio de Janeiro', 'Belo Horizonte', 'Porto Alegre', 'Sergipe']
 estados3 = ['SP', 'RJ', 'MG']
 
-cidades3_estados3 = zip(indice, estados3, cidades3 )
+cidades3_estados3 = zip(indice, estados3, cidades3)
 for indice, estados3, cidades3 in cidades3_estados3:
     print(indice, estados3, cidades3)
-
-
-

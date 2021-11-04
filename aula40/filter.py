@@ -7,4 +7,3 @@ print('*' * 100)
 
 nova_lista2 = [x for x in lista if x > 5]
 print(nova_lista2)
-

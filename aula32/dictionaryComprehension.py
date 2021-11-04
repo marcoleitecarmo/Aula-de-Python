@@ -7,7 +7,6 @@ print(l2)
 print(l3)
 print('*' * 50)
 
-
 lista = [
     ('Chave', 'Valor'),
     ('Chave2', 'Valor2')
@@ -23,5 +22,5 @@ print('#' * 50)
 d4 = {x for x in range(5)}
 print(d4, type(d4))
 
-d5 = {f'chave_{x}': x**2 for x in range(5)}
+d5 = {f'chave_{x}': x ** 2 for x in range(5)}
 print(d5, type(d5))

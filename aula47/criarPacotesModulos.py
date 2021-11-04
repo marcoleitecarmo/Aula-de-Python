@@ -10,4 +10,3 @@ preco_com_reducao = reducao(preco, 15, formata=True)
 print(preco_com_reducao)
 
 print(form.real(59.95))
-

@@ -10,8 +10,3 @@ for c in range(1, 21):
     elif c % 2 == 1:
         print('-=' * 5)
         print(f'{c} é impar') """
-
-
-
-
-

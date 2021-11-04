@@ -8,5 +8,3 @@ if num.isdigit():
         print('Você digiotu um número impar.')
 else:
     print('Você não digitou um número inteiro')
-
-

@@ -30,4 +30,3 @@ for valor in lista2:
     if valor.lower().startswith('j'):
         continue
     print(valor)
-    

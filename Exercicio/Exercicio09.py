@@ -11,4 +11,3 @@ print(contadores)
 print(tuplas)
 print(lista)
 print(retorno)
-

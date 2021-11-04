@@ -4,7 +4,6 @@ for numero in range(0, 100, 8):
 print()
 print('-' * 40)
 
-
 for n in range(100):
     if n % 8 == 0:
         print(n, end=' ')

@@ -1,4 +1,3 @@
-
 logged_user = False
 if logged_user:
     msg = 'Úsuario logado.'

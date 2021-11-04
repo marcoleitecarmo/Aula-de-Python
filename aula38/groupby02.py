@@ -27,5 +27,3 @@ for agrupamento, valores_agrupados in alunos_agrupados:
     quantidade = len(list(va2))
     print(f'\t{quantidade} alunos tiraram a nota {agrupamento}')
     print()
-
-

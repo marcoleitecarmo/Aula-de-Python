@@ -29,5 +29,4 @@ print('*' * 50)
 for linha in file:
     print(linha, end='')
 
-
 file.close()

@@ -53,4 +53,3 @@ if __name__ == '__main__':
             do_redo(todo_list, redo_list)
             continue
         do_add(todo, todo_list)
-        

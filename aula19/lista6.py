@@ -33,13 +33,3 @@ while True:
             chances -= 1
         print(f'Você tem {chances} chances')
         print()
-
-
-
-
-
-
-
-
-
-

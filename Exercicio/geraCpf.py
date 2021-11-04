@@ -1,4 +1,5 @@
 from random import randint
+
 num = str(randint(100000000, 999999999))
 
 n_cpf = num

@@ -1,4 +1,4 @@
-secreta= 'Paranaguaba'
+secreta = 'Paranaguaba'
 secreto_temporario = ''
 digitadas = ['a', 'n', 'P', 'r', 'g', 'u', 'b']
 

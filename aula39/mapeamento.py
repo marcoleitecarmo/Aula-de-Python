@@ -6,4 +6,3 @@ print(list(nova_lista))
 print('*' * 100)
 nova_lista2 = [x * 2 for x in lista]
 print(nova_lista2)
-

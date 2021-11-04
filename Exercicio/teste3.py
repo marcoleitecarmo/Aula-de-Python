@@ -1,4 +1,3 @@
-
 valor = 50.00
 minutos = int(input('Digite quantos minutos: '))
 

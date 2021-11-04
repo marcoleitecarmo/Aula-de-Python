@@ -7,7 +7,6 @@ Produto - Ordem importa e repete valores únicos
 """
 from itertools import combinations, permutations, product
 
-
 pessoas = ['Carlos', 'André', 'Eduardo', 'Letícia', 'Bruno', 'Rose']
 
 for grupo in combinations(pessoas, 2):

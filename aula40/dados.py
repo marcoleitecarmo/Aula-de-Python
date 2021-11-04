@@ -11,7 +11,6 @@ produtos = [
     {'nome': 'p10', 'preco': 2.90},
 ]
 
-
 pessoas = [
     {'nome': 'Luiz', 'idade': 12},
     {'nome': 'Eduarda', 'idade': 43},

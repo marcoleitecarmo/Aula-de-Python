@@ -25,5 +25,3 @@ while True:
 
     if sai == 'S':
         break
-
-

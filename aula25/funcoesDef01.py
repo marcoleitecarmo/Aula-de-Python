@@ -16,7 +16,7 @@ def maior(a=0):
             print('Você é de maior')
         else:
             print('Você é de menor')
-        b = input('Quer continuar [S/N]'). upper().strip()[0]
+        b = input('Quer continuar [S/N]').upper().strip()[0]
         if b == 'N':
             break
 

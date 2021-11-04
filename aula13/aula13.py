@@ -1,3 +1,1 @@
 # Usando a função len
-
-

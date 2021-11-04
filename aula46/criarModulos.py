@@ -4,7 +4,3 @@ print(PI)
 
 lista = [2, 4]
 print(multiplica(lista))
-
-
-
-

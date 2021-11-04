@@ -2,6 +2,7 @@ def master(funcao):
     def slave(*args, **kwargs):
         print('Estou decorada')
         funcao(*args, **kwargs)
+
     return slave
 
 

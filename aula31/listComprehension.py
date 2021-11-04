@@ -14,7 +14,6 @@ ex2 = [(x, y) for x, y in tupla]
 ex3 = [(y, x) for x, y in tupla]
 ex4 = dict(ex3)
 
-
 print(l2)
 print(l3)
 print(l4)

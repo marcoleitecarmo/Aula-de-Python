@@ -1,4 +1,3 @@
-
 x = 10
 y = 'Luiz'
 
@@ -10,7 +9,6 @@ y = z
 
 print(f' x = {x} e y = {y}')
 print('-' * 40)
-
 
 # Troca de valores entre variáveis em Python
 

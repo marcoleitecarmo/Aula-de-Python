@@ -14,4 +14,3 @@ print('-=' * 15)
 # Coversão de dados
 print('Luiz', type('Luiz'), bool('Luiz'))
 print('10', type('10'), type(int('10')))
-

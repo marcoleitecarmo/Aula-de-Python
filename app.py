@@ -14,7 +14,7 @@ def main():
     print(f'Prefixo: {calc_ipv4_1.prefixo}')
     print(f'Número de IPs da rede: {calc_ipv4_1.numero_ips}')
 
-    print('#' * 80)
+    print('#' * 100)
 
     # Com máscara
     calc_ipv4_2 = CalcIPv4(ip='192.168.0.128', mascara='255.255.255.192')

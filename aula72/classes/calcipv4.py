@@ -3,6 +3,7 @@ import regex
 
 
 class CalcIPv4:
+
     """
     Faz o cálculo de redes IPv4
 

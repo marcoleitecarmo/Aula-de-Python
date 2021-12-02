@@ -9,7 +9,7 @@ if sys.platform == 'windows':
 else:
     comando_ffmpeg = r'ffmpeg\ffmpeg.exe'
 
-codec_video = '-c:v libx264'
+codec_video = '-c:v  libx264'
 crf = '-crf 23'
 preset = '-preset ultrafast'
 codec_audio = '-c:a aac'

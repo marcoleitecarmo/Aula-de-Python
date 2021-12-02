@@ -49,6 +49,7 @@ clientes_json = """
         "idade": 32,
         "altura": 1.95,
         "peso": 113
+ 
     }
 }
 """

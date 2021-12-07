@@ -12,3 +12,4 @@ for pergunta in html.select('.question-summary'):
 
     print(data.text, titulo.text, votos.text, sep='\t')
 
+
